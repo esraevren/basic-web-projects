@@ -1,0 +1,27 @@
+body {
+    background-color: #E9ECEF;
+    list-style-position: inside
+  }
+  
+  .about {
+    text-align: center;
+  }
+  #carouselExampleCaptions {
+      margin-right: 10%;
+      
+
+      margin-left: 10%;
+  }
+
+  .container {
+      
+  }
+
+  .card {
+    box-shadow: 0 0 10px 0 rgba(212, 19, 45, 0.25);
+  }
+  .card-img-top {
+    width: 100%;
+    height: 15vw;
+    object-fit: contain;
+  }
